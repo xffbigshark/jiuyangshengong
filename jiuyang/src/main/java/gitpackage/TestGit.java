@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("how are you three");
         System.out.println("how are you four");
         System.out.println("how are you five");
+        System.out.println("hello thanks");
     }
 }
